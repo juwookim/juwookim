@@ -1,16 +1,36 @@
-## Hi there 👋
+# 안녕하세요, juwookim입니다 👋
 
-<!--
-**juwookim/juwookim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+아이디어를 직접 만들어 보며 배우는 개발자입니다.
+웹 서비스부터 브라우저 게임, 컴퓨터 비전까지 관심 가는 건 일단 만들어 봅니다.
 
-Here are some ideas to get you started:
+- 🛒 Next.js와 Supabase로 **아두이노 부품 쇼핑몰**을 만들었어요
+- 🎮 브라우저에서 바로 즐기는 **미니 게임**을 만드는 걸 좋아해요
+- ✋ MediaPipe로 **손동작 인식**을 실험하고 있어요
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Language**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Framework & Tools**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+
+## 📌 Projects
+
+| 프로젝트 | 설명 | 기술 | 데모 |
+|---|---|---|---|
+| [arduino-shop](https://github.com/juwookim/arduino-shop) | 아두이노 부품 쇼핑몰 (토스페이먼츠 테스트 결제 연동) | Next.js · Supabase · TypeScript | [바로가기](https://juwookim.github.io/arduino-shop/) |
+| [mediapipe-hand-gesture](https://github.com/juwookim/mediapipe-hand-gesture) | 웹캠으로 손 랜드마크와 제스처를 인식하는 데모 | Python · MediaPipe | [바로가기](https://juwookim.github.io/mediapipe-hand-gesture/) |
+| [jeomsin-newyear](https://github.com/juwookim/jeomsin-newyear) | 신년운세 카드 덱 | HTML · JavaScript · Python | [바로가기](https://juwookim.github.io/jeomsin-newyear/) |
+| [mazes](https://github.com/juwookim/mazes) | 실타래 미로 — 브라우저 미로찾기 게임 | HTML | [플레이](https://juwookim.github.io/mazes/) |
+| [snake](https://github.com/juwookim/snake) | 브라우저 스네이크 게임 | HTML | [플레이](https://juwookim.github.io/snake/) |
