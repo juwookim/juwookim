@@ -1,8 +1,8 @@
-![juwookim banner](assets/banner.svg)
+![juyeon kim banner](assets/banner.svg)
 
 # 안녕하세요, 김주연입니다.
 
-아이디어를 직접 만들어 보며 배우는 주니어개발자입니다.
+아이디어를 고민하고 직접 만들어 보며 배우는 주니어 개발자입니다.
 웹 서비스부터 브라우저 게임, 모바일 어플까지 만들어보고 있어요.
 
 - 🛒 Next.js와 Supabase로 **아두이노 부품 쇼핑몰**을 만들었어요
