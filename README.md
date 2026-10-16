@@ -25,7 +25,6 @@
 | 프로젝트 | 설명 | 기술 | 데모 |
 |---|---|---|---|
 | [arduino-shop](https://github.com/juwookim/arduino-shop) | 아두이노 부품 쇼핑몰 (토스페이먼츠 테스트 결제 연동) | Next.js · Supabase · TypeScript | [바로가기](https://juwookim.github.io/arduino-shop/) |
-| [mediapipe-hand-gesture](https://github.com/juwookim/mediapipe-hand-gesture) | 웹캠으로 손 랜드마크와 제스처를 인식하는 데모 | Python · MediaPipe | [바로가기](https://juwookim.github.io/mediapipe-hand-gesture/) |
 | [jeomsin-newyear](https://github.com/juwookim/jeomsin-newyear) | 신년운세 카드 덱 | HTML · JavaScript · Python | [바로가기](https://juwookim.github.io/jeomsin-newyear/) |
 | [mazes](https://github.com/juwookim/mazes) | 실타래 미로 — 브라우저 미로찾기 게임 | HTML | [플레이](https://juwookim.github.io/mazes/) |
 | [snake](https://github.com/juwookim/snake) | 브라우저 스네이크 게임 | HTML | [플레이](https://juwookim.github.io/snake/) |
