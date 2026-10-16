@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="juwookim — 만들면서 배우는 주니어 개발자">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="juyeon kim — 만들면서 배우는 주니어 개발자">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#1e1b4b"/>
@@ -33,7 +33,7 @@
   </g>
 
   <!-- text -->
-  <text x="72" y="108" fill="#c7d2fe" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="22" letter-spacing="1">&lt;hello world /&gt;</text>
+  <text x="72" y="108" fill="#c7d2fe" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="22" letter-spacing="1">&lt;>
   <text x="68" y="178" fill="#ffffff" font-family="'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="72" font-weight="800" letter-spacing="-1">juwookim</text>
   <rect x="72" y="198" width="120" height="5" rx="2.5" fill="url(#accent)"/>
   <text x="72" y="246" fill="#e0e7ff" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Segoe UI', sans-serif" font-size="26" font-weight="500">만들면서 배우는 주니어 개발자 · Web · Game · Mobile</text>
