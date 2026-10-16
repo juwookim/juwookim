@@ -1,3 +1,5 @@
+![juwookim banner](assets/banner.svg)
+
 # 안녕하세요, 김주연입니다.
 
 아이디어를 직접 만들어 보며 배우는 주니어개발자입니다.
